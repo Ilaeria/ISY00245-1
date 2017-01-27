@@ -1,0 +1,12 @@
+C:\Users\Ilaeria\Documents\University 2014-\2014\Session 2\ISY00245\Projects\JDohertyMajor\JDohertyMajor\bin\Debug\JDohertyMajor.exe.config
+C:\Users\Ilaeria\Documents\University 2014-\2014\Session 2\ISY00245\Projects\JDohertyMajor\JDohertyMajor\bin\Debug\JDohertyMajor.exe
+C:\Users\Ilaeria\Documents\University 2014-\2014\Session 2\ISY00245\Projects\JDohertyMajor\JDohertyMajor\bin\Debug\JDohertyMajor.pdb
+C:\Users\Ilaeria\Documents\University 2014-\2014\Session 2\ISY00245\Projects\JDohertyMajor\JDohertyMajor\obj\Debug\JDohertyMajor.csprojResolveAssemblyReference.cache
+C:\Users\Ilaeria\Documents\University 2014-\2014\Session 2\ISY00245\Projects\JDohertyMajor\JDohertyMajor\obj\Debug\JDohertyMajor.exe
+C:\Users\Ilaeria\Documents\University 2014-\2014\Session 2\ISY00245\Projects\JDohertyMajor\JDohertyMajor\obj\Debug\JDohertyMajor.pdb
+C:\Users\Laptop\Documents\Visual Studio 2013\Projects\JDohertyMajor\JDohertyMajor\bin\Debug\JDohertyMajor.exe.config
+C:\Users\Laptop\Documents\Visual Studio 2013\Projects\JDohertyMajor\JDohertyMajor\obj\Debug\JDohertyMajor.exe
+C:\Users\Laptop\Documents\Visual Studio 2013\Projects\JDohertyMajor\JDohertyMajor\obj\Debug\JDohertyMajor.pdb
+C:\Users\Laptop\Documents\Visual Studio 2013\Projects\JDohertyMajor\JDohertyMajor\bin\Debug\JDohertyMajor.exe
+C:\Users\Laptop\Documents\Visual Studio 2013\Projects\JDohertyMajor\JDohertyMajor\bin\Debug\JDohertyMajor.pdb
+C:\Users\Laptop\Documents\Visual Studio 2013\Projects\JDohertyMajor\JDohertyMajor\obj\Debug\JDohertyMajor.csprojResolveAssemblyReference.cache
